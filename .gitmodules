@@ -1,0 +1,3 @@
+[submodule "iperf-sys/vendor"]
+	path = iperf-sys/vendor
+	url = https://github.com/esnet/iperf.git
